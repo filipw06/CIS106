@@ -1,0 +1,7 @@
+M7P2 - Logic
+
+1. Input integer start, stop, and increment values.
+2. Reject zero increments or increments that move away from the stop.
+3. Set number to start.
+4. While number has not passed stop in the increment direction, display number and add increment.
+5. End. The stop value appears only if the sequence reaches it exactly.

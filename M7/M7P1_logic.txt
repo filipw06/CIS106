@@ -1,0 +1,5 @@
+M7P1 - Logic
+
+1. Set number to 1.
+2. While number is at most 25, display number and add 2.
+3. End.

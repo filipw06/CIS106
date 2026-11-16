@@ -1,0 +1,10 @@
+M7P5 - Logic
+
+1. Set total discounts to zero. Ask whether to continue.
+2. While the answer is Yes (ignoring case and surrounding spaces):
+   a. Input quantity and unit price. Extended price = quantity * price.
+   b. Use a 25% discount if extended price is greater than 10000; otherwise use 10%.
+   c. Discount amount = extended price * discount rate. Total = extended price - discount amount.
+   d. Display extended price, discount amount, and total.
+   e. Add discount amount to total discounts. Ask whether to enter another order.
+3. Display sum of all discounts.

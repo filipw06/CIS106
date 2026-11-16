@@ -1,0 +1,9 @@
+M7P3 - Logic
+
+1. Set student count to zero. Ask whether to continue.
+2. While the answer is Yes (ignoring case and surrounding spaces):
+   a. Input last name and two exam scores.
+   b. Average = (exam 1 + exam 2) / 2.
+   c. Display last name and average. Add one to student count.
+   d. Ask whether to enter another student.
+3. Display student count.
