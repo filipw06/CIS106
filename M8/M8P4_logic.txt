@@ -1,0 +1,9 @@
+M8P4 - Logic
+
+Open M8P4_data.txt from the program folder. Set total and count to zero.
+For each order, read item, quantity, and price on separate lines.
+  Extended price = quantity * price.
+  Add extended price to total and add one to count.
+  Display item, quantity, price, and extended price.
+Close file. Average = total / count if count > 0; otherwise zero.
+Display total, count, and average.

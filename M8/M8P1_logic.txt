@@ -1,0 +1,11 @@
+M8P1 - Logic
+
+Input principal and decimal interest rate. Set total interest to zero.
+For years 1 through 5:
+  Save principal as beginning balance.
+  Interest = beginning balance * rate.
+  Ending balance = beginning balance + interest.
+  Add interest to accumulated interest.
+  Display year, beginning balance, and ending balance.
+  Use ending balance as the next principal.
+Display accumulated interest.

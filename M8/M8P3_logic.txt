@@ -1,0 +1,10 @@
+M8P3 - Logic
+
+Open M8P3_data.txt from the program folder. Set total bonuses to zero.
+For each employee record, read last name and salary on separate lines.
+  Salary >= 100000: rate = 20%.
+  Otherwise salary >= 50000: rate = 15%.
+  Otherwise: rate = 10%.
+  Bonus = salary * rate. Add bonus to total.
+  Display last name, salary, and bonus.
+Close file and display total bonuses.

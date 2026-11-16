@@ -1,0 +1,7 @@
+M8P2 - Logic
+
+Set first and second to 1.
+Repeat 20 times using a for loop:
+  Display first.
+  Next number = first + second.
+  Set first to second and second to next number.

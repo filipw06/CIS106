@@ -1,0 +1,9 @@
+M8P5 - Logic
+
+Open M8P5_data.txt from the program folder. Set tuition total and student count to zero.
+For each student, read last name, district code, and credits on separate lines.
+  I means 250 per credit; O means 500 per credit. Reject any other code.
+  Tuition = credits * cost per credit.
+  Add tuition to total and add one to student count.
+  Display last name, credits, and tuition.
+Close file and display total tuition and student count.
